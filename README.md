@@ -277,7 +277,6 @@
 ![](https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/s2.png)
 
 
-<p align="center"><img src="images/zhizhi.png" width="600" /></p>
 
 
 
