@@ -37,22 +37,33 @@
 </p>
 
 我不是什么大牛，我想做的其实就是一个传播者。内容可能过于基础，但对于刚入门的人来说或许是一个窗口，一个解惑之窗。
-大家可以去[【高晨煜频道】](#高晨煜频道)获取或者加我[【微信】](#公众号)提意见(别忘记**Star**哟)。
+
+大家可以去[【公众号】](#高晨煜频道)获取或者加我[【微信】](#高晨煜频道)提意见(别忘记**Star**哟)。
 
 
 <p align="center">
 
-<a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-高晨煜频道-informational" alt="公众号"></a>
+  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-高晨煜频道-informational" alt="公众号"></a>
+  <a href="https://space.bilibili.com/447986502"><img src="https://img.shields.io/badge/bilibili-哔哩哔哩-critical" alt="哔哩哔哩"></a>
+  <a href="https://www.zhihu.com/people/gaochenyuVX-ggcr86"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="知乎"></a>
  </p>
 
+
+
+
+
 # 目录(善用Ctrl+F)
-筹备中
+
+- #### <img src="images/20210525164445172.png" width="60"/>  [职称考试拿证](https://www.laixue.com/)
+  
+# 筹备中，惊奇期待
+
+
 # 赞赏码
 
 熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡，赏了一定要加我微信跟我说。
 
 <p align="center"><img src="images/1621910602466.jpg" width="300" /></p>
-
 
 # 鸣谢
 
@@ -62,7 +73,7 @@
 
 <a name="微信"></a>  <a name="公众号"></a>
 
-加我个人微信回复 **"加群"** 或者关注公众号，并进入公众号 **[进群交流]** ，添加好友即可。 公众号也会经常分享一些干货。
+加我个人微信回复 **"加群"** 或者关注公众号，并进入公众号 **[进群交流]** ，添加好友即可。 
 
 微信搜索 **[高晨煜频道]** ，第一时间阅读或者扫描下方的二维码。
 
