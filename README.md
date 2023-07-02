@@ -54,11 +54,6 @@
 <p align="center"><img src="images/1621910602466.jpg" width="300" /></p>
 
 
-![](https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/s2.png)
-
-
-
-
 # 鸣谢
 
 ****
