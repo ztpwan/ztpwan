@@ -41,7 +41,7 @@
 
 <p align="center">
 
-  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-高晨煜频道-informational" alt="公众号"></a>
+  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-李苒晴学习社-informational" alt="公众号"></a>
   <a href="https://space.bilibili.com/447986502"><img src="https://img.shields.io/badge/bilibili-哔哩哔哩-critical" alt="哔哩哔哩"></a>
   <a href="https://www.zhihu.com/people/gaochenyuVX-ggcr86"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="知乎"></a>
  </p>
@@ -75,6 +75,6 @@
 
 加我个人微信回复 **"加群"** 或者关注公众号，并进入公众号 **[进群交流]** ，添加好友即可。 
 
-微信搜索 **[高晨煜频道]** ，第一时间阅读或者扫描下方的二维码。
+微信搜索 **[李苒晴学习社]** ，第一时间阅读或者扫描下方的二维码。
 
 <p align="center"><img src="images/0.png" width="300" /><img src="images/0.jpg" width="300" /></p>
