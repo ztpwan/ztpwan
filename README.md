@@ -38,18 +38,12 @@
 
 我不是什么大牛，我想做的其实就是一个传播者。内容可能过于基础，但对于刚入门的人来说或许是一个窗口，一个解惑之窗。我要先坚持分享20年，大家来一起见证吧。
 
-每年至少会分享不少于`200篇`的优质文章，如果想第一时间获取文章，大家可以去[【公众号】](#公众号)获取或者加我[【微信】](#公众号)提意见(别忘记**Star**哟)。最近还开了一个店铺[【致知店铺】](#致知店铺)
-
+每年至少会分享不少于`200篇`的优质文章，如果想第一时间获取文章，大家可以去[【高晨煜频道】](#高晨煜频道)获取或者加我[【微信】](#公众号)提意见(别忘记**Star**哟)。
 
 
 <p align="center">
-  <a href="https://blog.csdn.net/qq_44273429/"><img src="https://img.shields.io/badge/CSDN-海拥-critical" alt="CSDN"></a>
-  <a href="http://zsysjq.com.cn/store/127"><img src="https://img.shields.io/badge/致知-海拥-9cf" alt="致知店铺"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-啦啦啦好想biu点什么-informational" alt="公众号"></a>
-  <a href="https://space.bilibili.com/63551025"><img src="https://img.shields.io/badge/bilibili-哔哩哔哩-critical" alt="哔哩哔哩"></a>
-  <a href="https://segmentfault.com/u/haiyong"><img src="https://img.shields.io/badge/segmentfault-思否-9cf" alt="思否"></a>
-  <a href="https://juejin.cn/user/2040341402229751/"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="掘金"></a>
-  <a href="https://www.zhihu.com/people/wanghao221"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="知乎"></a>
+
+<a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-高晨煜频道-informational" alt="公众号"></a>
  </p>
 
 
@@ -283,11 +277,6 @@
 ![](https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/s2.png)
 
 
-<a name="致知店铺"></a> 
-
-# 致知店铺 
-
-店铺地址：[http://zsysjq.com.cn/store/127](http://zsysjq.com.cn/store/127)
 <p align="center"><img src="images/zhizhi.png" width="600" /></p>
 
 
@@ -302,6 +291,6 @@
 
 加我个人微信回复 **"加群"** 或者关注公众号，并进入公众号 **[进群交流]** ，添加好友即可。 公众号也会经常分享一些干货。
 
-微信搜索 **[啦啦啦好想biu点什么]** ，第一时间阅读或者扫描下方的二维码。
+微信搜索 **[高晨煜频道]** ，第一时间阅读或者扫描下方的二维码。
 
 <p align="center"><img src="images/0.png" width="300" /><img src="images/0.jpg" width="300" /></p>
