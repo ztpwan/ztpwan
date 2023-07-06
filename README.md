@@ -53,8 +53,7 @@
 # 目录(善用Ctrl+F)
 
 
-- #### <img src="images/20210525164445172.png" width="60"/>  [职称考试拿证](https://www.laixue.com/)
-  
+
 
 # 筹备中，敬请期待
 
